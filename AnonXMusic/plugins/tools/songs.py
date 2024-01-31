@@ -12,10 +12,10 @@ from pyrogram.types import (InlineKeyboardButton,
 
 from config import (BANNED_USERS, SONG_DOWNLOAD_DURATION,
                     SONG_DOWNLOAD_DURATION_LIMIT)
-from VenomX import YouTube, app
-from VenomX.utils.decorators.language import language, languageCB
-from VenomX.utils.formatters import convert_bytes
-from VenomX.utils.inline.song import song_markup
+from AnonXMusic import YouTube, app
+from AnonXMusic.utils.decorators.language import language, languageCB
+from AnonXMusic.utils.formatters import convert_bytes
+from AnonXMusic.utils.inline.song import song_markup
 
 
 
