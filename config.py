@@ -119,3 +119,8 @@ if SUPPORT_CHAT:
         raise SystemExit(
             "[ERROR] - Your SUPPORT_CHAT url is wrong. Please ensure that it starts with https://"
         )
+
+DURATION_LIMIT = int(time_to_seconds(f"{DURATION_LIMIT_MIN}:00"))
+SONG_DOWNLOAD_DURATION_LIMIT = int(
+    time_to_seconds(f"{SONG_DOWNLOAD_DURATION}:00")
+)
