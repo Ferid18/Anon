@@ -21,7 +21,12 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 60))
 # Chat id of a group for logging bot's activities
 LOGGER_ID = int(getenv("LOGGER_ID", "-1001913460066"))
 
+# Duration Limit for downloading Songs in MP3 or MP4 format from bot
+SONG_DOWNLOAD_DURATION = int(
+    getenv("SONG_DOWNLOAD_DURATION_LIMIT", "180")
+)  # Remember to give value in Minutes
 # Get this value from @FallenxBot on Telegram by /id
+
 OWNER_ID = int(getenv("OWNER_ID", "5898049921"))
 
 ## Fill these variables if you're deploying on heroku.
