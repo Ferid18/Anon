@@ -4,7 +4,7 @@ name : 🇹🇷 Turkish
 general_1 : "Bir kullanıcının mesajini yanıtlayır ve ya kullanıcı kimliği verin ."
 general_2 : "Sorgunuz işlenirken birşeyler ters gitti\n\nexception: <code>{0}</code>"
 general_3 : "Bu sohbette anonim bir yöneticisiniz, beni kullanmak için kullanıcı hesabınıza geri dönün"
-general_4 : "Görüntülü sohbetleri yönetme izniniz yok.\n\yönetici önbelleğini /reload aracılığıyla yeniden yükleyin"
+general_4 : "Görüntülü sohbetleri yönetme izniniz yok.\n\nreload önbelleğini /reload aracılığıyla yeniden yükleyin"
 general_5 : "Bot görüntelü sohbette yayın yapmıyor."
 
 tg_1 : "<u><b>{0} ᴅᴏᴡɴʟᴏᴀᴅᴇʀ</b></u>\n\n<b>ғɪʟᴇ sɪᴢᴇ :</b> {1}\n<b>ᴄᴏᴍᴘʟᴇᴛᴇᴅ :</b> {2}\n<b>ᴘᴇʀᴄᴇɴᴛᴀɢᴇ :</b> {3}%\n\n<b>sᴘᴇᴇᴅ :</b> {4}/s\n<b>ᴇᴛᴀ :</b> {5}"
