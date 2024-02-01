@@ -165,6 +165,21 @@ str_3 : "ғᴀɪʟᴇᴅ ᴛᴏ sᴛʀᴇᴀᴍ ʏᴏᴜᴛᴜʙᴇ ʟɪᴠᴇ s
 ping_1 : "{0} ɪs ᴘɪɴɢɪɴɢ..."
 ping_2 : "🏓 ᴩᴏɴɢ : <code>{0}ᴍs</code>\n\n<b><u>{1} sʏsᴛᴇᴍ sᴛᴀᴛs :</u></b>\n\n↬ ᴜᴩᴛɪᴍᴇ : {2}\n↬ ʀᴀᴍ : {3}\n↬ ᴄᴩᴜ : {4}\n↬ ᴅɪsᴋ : {5}\n↬ ᴩʏ-ᴛɢᴄᴀʟʟs : <code>{6}ᴍs</code>"
 
+
+
+# Song
+song_1 : "YouTube'dan Musiqi və ya Videonu yalnız şəxsi söhbətdə endirə bilərsiniz. Zəhmət olmasa, şəxsi söhbətdə mənə başlayın."
+song_2 : "**İstifadə:**\n\n/mahnı [Musiqi Adı] və ya [Youtube Linki]"
+song_3 : "Canlı Link Aşkarlandı. Mən canlı youtube videolarını endirə bilmirəm."
+song_4 : "**🔗Başlıq:**- {0}\n\nEndirmək istədiyiniz növü seçin."
+song_5 : "Etibarlı Youtube Linki deyil"
+song_6 : "Formatlar əldə edilir.. \n\nLütfən, gözləyin.."
+song_7 : "Video üçün mövcud formatları əldə etmək alınmadı. Lütfən, hər hansı digər treki sınayın."
+song_8 : "Endirmə başladı\n\nYükləmə sürəti yavaş ola bilər. Zəhmət olmasa, saxlayın.."
+song_9 : "Youtube-DL-dən mahnı yükləmək alınmadı\n\n**Səbəb:** {0}"
+song_10 : "Serverlərdən teleqrama yükləmək alınmadı."
+song_11 : "Yükləmə Başladı\n\nYükləmə sürəti yavaş ola bilər. Zəhmət olmasa, saxlayın.."
+
 queue_1 : "» ғᴇᴛᴄʜɪɴɢ ǫᴜᴇᴜᴇ...\n\nᴘʟᴇᴀsᴇ ᴡᴀɪᴛ..."
 queue_2 : "» ǫᴜᴇᴜᴇ ᴇᴍᴘᴛʏ."
 queue_3 : "<u>» ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ᴄʜᴇᴄᴋ ᴛʜᴇ ʟɪsᴛ ᴏғ ᴛʜᴇ ǫᴜᴇᴜᴇᴅ ᴛʀᴀᴄᴋs :</u> <a href={0}>ʜᴇʀᴇ</a>"
