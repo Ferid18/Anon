@@ -23,7 +23,7 @@ call_3 : "Asistan {0} sohbetinize davet edilemedi.\n\nʀᴇᴀsᴏɴ : <code>{1}
 call_4 : "ᴘʟᴇᴀsᴇ ᴡᴀɪᴛ...\n\nɪɴᴠɪᴛɪɴɢ {0} Sohbetiniz için asistan..."
 call_5 : "{0} Asistan başarıyla katıldı.\n\nᴛʀʏɪɴɢ ᴛᴏ sᴛᴀʀᴛ sᴛʀᴇᴀᴍ..."
 call_6 : "» Akışı değiştirmek için lütfen /skip tuşunu kullanarak parçayı tekrar değiştirin."
-call_7 : "» Sıradaki parça kuyruktan indiriliyor. \n\lütfen bekleyin..."
+call_7 : "» Sıradaki parça kuyruktan indiriliyor. \n\please bekleyin..."
 call_8 : "<b>Aktif görüntülü sohbet bulunamadı.</b>\n\nLütfen grubunuzda/kanalınızda görüntülü sohbet başlatın ve tekrar deneyin."
 call_9 : "<<b>Asistan zaten görüntülü sohbette.<b>Eğer asistan görüntülü sohbette değilse, lütfen gönderin <code>/reboot</code> ve tekrar oynat."
 call_10 : "<b>Telegram sunucu hatası</b>\n\ntelegram bazı dahili sorunlar yaşıyor, lütfen tekrar oynatmayı deneyin veya grubunuzun görüntülü sohbetini yeniden başlatın."
