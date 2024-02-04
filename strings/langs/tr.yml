@@ -76,7 +76,7 @@ admin_30 : "» Lütfen bekleyin...\n\nbaşka biri akışın hızını değiştir
 admin_31 : "Hız değiştirme..."
 admin_32 : "» Devam eden akışın hızını değiştirmeye çalışıyorum...\n\n<b>requested by :</b> {0}"
 admin_33 : "» Devam eden akışın hızı değiştirilemedi."
-admin_34 : "» Devam eden akışın hızı {0}x\n\<b>requested by :</b> {1} olarak değiştirildi"
+admin_34 : "» Devam eden akışın hızı {0}x\n\ <b>requested by :</b> {1} olarak değiştirildi"
 admin_35 : "Oylama sona ermiştir çünkü oylama için sağlanan parça sona ermiştir."
 admin_36 : "Bu eylem gerçekleştirilemedi çünkü oylamanın sağlandığı iz ya sonlandırıldı ya da durduruldu."
 admin_37 : "Başarılı bir şekilde <code>{0}</code> ᴜᴘᴠᴏᴛᴇs."
